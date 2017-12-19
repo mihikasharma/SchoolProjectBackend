@@ -1,0 +1,20 @@
+{
+    "name": "xpress",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "mihika sharma",
+    "license": "ISC",
+    "dependencies": {
+        "command-line-args": "^4.0.7",
+        "body-parser": "^1.18.2",
+        "elasticsearch": "^13.3.1",
+        "express": "^4.16.1",
+        "express-joi": "^0.3.1",
+        "joi": "^11.1.1",
+        "redis": "^2.8.0"
+    }
+}
